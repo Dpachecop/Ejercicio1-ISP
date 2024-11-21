@@ -2,7 +2,7 @@ import implementado.MantenimientoRep;
 import implementado.MantenimientoRev;
 import implementado.ManteninimientoLimp;
 
-public class Main {
+public class Main_1 {
 
      public static void main(String[] args) {
         
